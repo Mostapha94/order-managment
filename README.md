@@ -9,4 +9,3 @@ The project demonstrates:
 - Orders & Payments modules (models, migrations, controllers, services)  
 - Unit & Feature Tests (`tests/Unit`, `tests/Feature`)  
 - SQLite in-memory config for fast testing (`phpunit.xml`)  
-- Postman collection included (`postman/collection.json`)  
