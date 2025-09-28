@@ -45,6 +45,9 @@ api.php
 1. **Clone repository**
 ```bash
 git clone https://github.com/Mostapha94/order-managment.git
+
+2. **Then**
+
 cd order-managment
 composer install
 cp .env.example .env
