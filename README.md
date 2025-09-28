@@ -1,13 +1,12 @@
-
 # Order & Payment Management API
 
-It includes code, tests 
+A Laravel 12 based REST API for managing **Orders** and **Payments**, built with clean code principles and extensibility in mind.  
 
-Included:
-- Repository pattern
-- Strategy pattern for payment gateways
-- JWT-auth usage hooks (install tymon/jwt-auth locally)
-- Orders & Payments (models, migrations, controllers, services)
-- tests/Feature and tests/Unit
-- phpunit.xml (sqlite in-memory)
-- README with setup and test instructions
+The project demonstrates:  
+- Repository Pattern for data access  
+- Strategy Pattern for payment gateways  
+- JWT Authentication (using tymon/jwt-auth)  
+- Orders & Payments modules (models, migrations, controllers, services)  
+- Unit & Feature Tests (`tests/Unit`, `tests/Feature`)  
+- SQLite in-memory config for fast testing (`phpunit.xml`)  
+- Postman collection included (`postman/collection.json`)  
