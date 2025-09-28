@@ -40,13 +40,12 @@ routes/
 api.php
 
 
-## 🚀 Setup Instructions
-
 1. **Clone repository**
 ```bash
 git clone https://github.com/Mostapha94/order-managment.git
 
-2. **Then**
+
+## 🚀 Setup Instructions
 
 cd order-managment
 composer install
